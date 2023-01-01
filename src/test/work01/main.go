@@ -8,5 +8,5 @@ func main() {
 	fmt.Printf("s: %v\n", s)
 
 	const P1 float32 = 3.14156
-
+	fmt.Printf("P1: %v\n", P1)
 }
